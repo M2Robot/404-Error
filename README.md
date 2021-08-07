@@ -1,2 +1,2 @@
-# 404-page-not-found
-### Full page code error 404 page not found.
+# 404
+### Full page code - Design error 404 Page Not Found.
